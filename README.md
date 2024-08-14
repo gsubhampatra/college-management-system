@@ -171,7 +171,7 @@ The College Management System is designed to manage and automate various aspects
     ```json
     {
       "year": 2021,
-      "courses": [...]
+      "courses": [....]
     }
     ```
 
@@ -181,7 +181,7 @@ The College Management System is designed to manage and automate various aspects
     ```json
     {
       "year": 2021,
-      "courses": [...]
+      "courses": [... ]
     }
     ```
 
@@ -212,7 +212,7 @@ The College Management System is designed to manage and automate various aspects
 
   - Response:
 
-    ````json
+    ```json
     {
     "attendance": [
     {
@@ -241,7 +241,7 @@ The College Management System is designed to manage and automate various aspects
 
         }
         ```
-    ````
+    
 
 ### Marks Management
 
